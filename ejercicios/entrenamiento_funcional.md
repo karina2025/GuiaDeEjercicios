@@ -8,3 +8,10 @@ El entrenamiento funcional se enfoca en mejorar la fuerza, el equilibrio y la co
 - Incrementa el equilibrio y la coordinación.
 - Ayuda a prevenir lesiones al fortalecer músculos estabilizadores.
 - Mejora la postura y la movilidad.
+
+#instrucciones
+1. Comienza con un calentamiento dinámico, como saltos de tijera, rotaciones de tronco y flexiones de piernas.
+2. Realiza ejercicios como sentadillas, burpees, flexiones, estocadas y planchas, con énfasis en movimientos compuestos.
+3. Haz 3-4 series de 12-15 repeticiones de cada ejercicio, con descansos de 30 segundos entre series.
+4. Enfócate en ejecutar los movimientos con una buena técnica y forma.
+5. Termina con un estiramiento suave para relajarte después del entrenamiento.
