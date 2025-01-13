@@ -21,3 +21,9 @@ El CrossFit es un entrenamiento que combina ejercicios de fuerza, resistencia, g
 3. Haz rondas de estos ejercicios en formato "AMRAP" (As Many Rounds As Possible), realizando 5-10 repeticiones de cada ejercicio y completando tantas rondas como puedas en 15-20 minutos.
 4. Mantén una intensidad alta y realiza los ejercicios con la técnica correcta para evitar lesiones.
 5. Finaliza con un enfriamiento de 5-10 minutos y estiramientos, enfocándote en las piernas, espalda y hombros.
+
+# Consejos
+- Enfócate en la técnica antes de aumentar la intensidad o el peso.
+- Realiza el entrenamiento de manera controlada, manteniendo un buen ritmo sin comprometer la forma.
+- Si eres principiante, comienza con movimientos más sencillos y aumenta gradualmente la dificultad.
+- Asegúrate de mantener una buena hidratación, ya que el CrossFit es un entrenamiento exigente.
