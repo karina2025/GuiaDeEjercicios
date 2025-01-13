@@ -15,3 +15,9 @@ El boxeo es un deporte de contacto que mejora la fuerza, la resistencia cardiova
 3. Realiza sesiones de 3-5 rondas de 2-3 minutos, alternando entre golpes y descansos activos de 30 segundos.
 4. Mantén una postura adecuada, con las piernas ligeramente flexionadas, los puños a la altura de la cara y los codos hacia adentro.
 5. Finaliza con una vuelta a la calma que incluya estiramientos de hombros, muñecas y piernas.
+
+#consejos
+- Enfócate en la técnica de los golpes antes de la velocidad o la fuerza.
+- No olvides proteger tus muñecas y manos, especialmente si usas guantes de boxeo.
+- Mantén una buena postura y evita sobresaltos o movimientos bruscos para prevenir lesiones.
+- Si entrenas con un compañero, asegúrate de tener un equipo adecuado de protección, como los guantes y vendas para las manos.
