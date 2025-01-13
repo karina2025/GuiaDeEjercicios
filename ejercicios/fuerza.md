@@ -15,3 +15,9 @@ Los ejercicios de fuerza son actividades que se enfocan en mejorar la masa muscu
 3. Toma descansos de 1-2 minutos entre series para evitar el agotamiento excesivo.
 4. Asegúrate de mantener una postura adecuada para evitar lesiones.
 5. Realiza un enfriamiento y estiramiento al final.
+
+# Consejos
+- Aumenta gradualmente el peso para evitar lesiones.
+- Mantén una buena forma durante todo el ejercicio, no apresures los movimientos.
+- Descansa lo suficiente entre series para optimizar el rendimiento.
+- Mantén una alimentación adecuada rica en proteínas para ayudar a la recuperación muscular.
