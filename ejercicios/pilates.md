@@ -16,3 +16,8 @@ El Pilates es un sistema de ejercicios que se centra en fortalecer el núcleo (a
 4. Realiza entre 10-15 repeticiones por ejercicio, y repite 2-3 series.
 5. Finaliza con una serie de estiramientos suaves para relajar los músculos.
 
+#consejos
+- Mantén siempre el control en cada movimiento, evitando el uso de impulso.
+- Concédele atención al movimiento de la columna, evitando cualquier tensión innecesaria.
+- Si eres principiante, comienza con los ejercicios más fáciles y aumenta la dificultad gradualmente.
+- Practica Pilates de forma regular para obtener beneficios sostenibles en la fuerza y flexibilidad.
