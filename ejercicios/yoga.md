@@ -15,3 +15,9 @@ El yoga es una práctica que combina posturas físicas, respiración controlada 
 3. Concédele especial atención a la alineación y la respiración mientras te mueves entre las posturas.
 4. Realiza 2-3 series de cada postura y concéntrate en alargar y estirar los músculos de manera controlada.
 5. Finaliza con una postura de relajación, como la "Postura del Cadáver", para dejar que el cuerpo asimile los beneficios del yoga.
+
+#consejos
+ Realiza las posturas con lentitud y control, evitando forzar el cuerpo más allá de sus límites.
+- Usa un tapete o colchoneta para mayor comodidad durante las posturas.
+- Si eres principiante, comienza con posturas sencillas y ve progresando gradualmente.
+- La respiración es clave en el yoga; asegúrate de respirar profundamente y de manera consciente durante todo el ejercicio.
