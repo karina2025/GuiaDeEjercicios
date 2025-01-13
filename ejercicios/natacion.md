@@ -15,3 +15,9 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo, mejoran
 3. Concédele atención a la respiración: inhala por la boca cuando la cabeza esté fuera del agua y exhala por la nariz cuando esté sumergida.
 4. Mantén una postura de cuerpo recta, con las piernas estiradas y los movimientos controlados para maximizar la eficiencia.
 5. Finaliza con una vuelta a la calma, nadando a un ritmo suave durante 5-10 minutos y realizando estiramientos de los brazos y piernas.
+
+#consejos
+- Si eres principiante, comienza con sesiones más cortas e incrementa la duración gradualmente.
+- Utiliza gafas de natación para proteger tus ojos y mejorar la visibilidad bajo el agua.
+- No te olvides de mantener la hidratación, incluso si estás en el agua.
+- Si nadas en una piscina con carriles, respeta las reglas de circulación para evitar accidentes.
