@@ -15,3 +15,9 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 3. Mantén cada estiramiento entre 20-30 segundos, sin rebotes ni movimientos bruscos.
 4. Realiza una serie de estiramientos para todo el cuerpo, prestando especial atención a las áreas más tensas.
 5. Finaliza con un estiramiento suave para la relajación.
+
+#consejos
+- No fuerces el estiramiento más allá de tu límite; el dolor puede ser un signo de lesión.
+- Mantén una respiración tranquila y profunda durante los estiramientos.
+- Estira de manera constante para ver mejoras a largo plazo.
+- Realiza estiramientos tanto antes como después de tu entrenamiento para mantener la flexibilidad.
